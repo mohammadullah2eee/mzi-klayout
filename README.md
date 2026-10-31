@@ -5,7 +5,7 @@ Three silicon photonic Mach–Zehnder interferometer test circuits with differen
 
 **Status:** design and simulation. The circuits have not been fabricated or measured.
 
-![Layout overview](images/1st_design_mohammadullah.png)
+![Layout overview](Images/1st_design_mohammadullah.png))
 
 ## Purpose
 
@@ -29,9 +29,19 @@ Components used: ebeam_gc_te1550 (TE 1550 nm grating coupler), ebeam_y_1550 (Y-j
 
 Circuit simulations were run for all four labelled devices using SiEPIC-Tools with the SiEPIC EBeam PDK, and each run completed without an error message.
 
-To see the simulation results, click the images folder at the same repository.
+To see the simulation results, check the following images:
 
-![Simulation results](images/)
+### Loopback Reference
+![Loopback Simulation](Images/1st_design_mohammadullah_opt_in_te_1550_device_mohammadullahloopback_l.png)
+
+### MZI 1
+![MZI 1 Simulation](Images/1st_design_mohammadullah_opt_in_te_1550_device_mohammadullahmzi1_l.png)
+
+### MZI 2
+![MZI 2 Simulation](Images/1st_design_mohammadullah_opt_in_te_1550_device_mohammadullahmzi2_l.png)
+
+### MZI 3
+![MZI 3 Simulation](Images/1st_design_mohammadullah_opt_in_te_1550_device_mohammadullahmzi3_l.png)
 
 ## Repository contents
 
